@@ -5,8 +5,8 @@ class Grid extends React.Component {
 
   render() {
     return (
-      <div>
-        <h1> The Game of Life </h1>
+      <div className = "grid teal">
+        <h2> Grid </h2>
       </div>
     )
   }
